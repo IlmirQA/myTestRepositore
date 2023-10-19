@@ -1,4 +1,4 @@
-name: learn-github-actions
+name: test GA action ыва
 run-name: ${{ github.actor }} is learning GitHub Actions
 on: [push]
 jobs:
